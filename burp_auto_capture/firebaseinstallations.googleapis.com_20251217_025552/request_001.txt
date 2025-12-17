@@ -1,0 +1,19 @@
+POST /v1/projects/esportivacrm/installations HTTP/2
+Host: firebaseinstallations.googleapis.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+Accept: application/json
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 130
+Referer: https://esportiva.bet.br/
+X-Firebase-Client: eyJ2ZXJzaW9uIjoyLCJoZWFydGJlYXRzIjpbeyJhZ2VudCI6ImZpcmUtY29yZS8wLjEwLjAgZmlyZS1jb3JlLWVzbTIwMTcvMC4xMC4wIGZpcmUtanMvIGZpcmUtanMtYWxsLWFwcC8xMC4xMC4wIGZpcmUtaWlkLzAuNi42IGZpcmUtaWlkLWVzbTIwMTcvMC42LjYgZmlyZS1mY20vMC4xMi43IGZpcmUtZmNtLWVzbTIwMTcvMC4xMi43IiwiZGF0ZXMiOlsiMjAyNS0xMi0xNiJdfV19
+X-Goog-Api-Key: AIzaSyAlwooFagCc8e73raSMTwxzRblTUwHDTu8
+Origin: https://esportiva.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=4
+Te: trailers
+
+{"fid":"cyHfS8KRypCVVe1xUTtzMN","authVersion":"FIS_v2","appId":"1:313747464509:web:302026e560d4833f426554","sdkVersion":"w:0.6.6"}
