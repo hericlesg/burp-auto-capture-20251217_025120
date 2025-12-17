@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20251217_030122", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/blog.esportiva.bet_20251217_030122/request_001.txt", 
+      "url": "https://blog.esportiva.bet:443/promocoes/", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/blog.esportiva.bet_20251217_030122/response_001.txt", 
+      "timestamp": 1765930850732
+    }
+  ], 
+  "host": "blog.esportiva.bet", 
+  "total_requests": 1
+}
