@@ -1,0 +1,26 @@
+HTTP/2 200 OK
+Content-Type: text/event-stream
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Vary: Origin
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Vary: Accept-Encoding
+Expires: Wed, 17 Dec 2025 00:05:11 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 17 Dec 2025 00:05:11 GMT
+Content-Length: 49
+Set-Cookie: AWSALB=OAHjLpjisQUvMJNRtanWQxBK0NmcA7QMzNS5+zlge2PyO9WvEeSvDBTHhRhaoxFaG+f9pBL2oMLWAEXaZpcPHSvVdkih2ctz1yIS+EwLv0s2RZFSw8GT7B7G0oDJ; Expires=Wed, 24 Dec 2025 00:04:56 GMT; Path=/
+Set-Cookie: AWSALBCORS=OAHjLpjisQUvMJNRtanWQxBK0NmcA7QMzNS5+zlge2PyO9WvEeSvDBTHhRhaoxFaG+f9pBL2oMLWAEXaZpcPHSvVdkih2ctz1yIS+EwLv0s2RZFSw8GT7B7G0oDJ; Expires=Wed, 24 Dec 2025 00:04:56 GMT; Path=/; SameSite=None; Secure
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=124
+Server-Timing: origin; dur=21
+Server-Timing: ak_p; desc="1765929896129_34947790_2906571819_14534_10147_32_0_15";dur=1
+
+:
+data: {"error":"Handshake was canceled."}
+
