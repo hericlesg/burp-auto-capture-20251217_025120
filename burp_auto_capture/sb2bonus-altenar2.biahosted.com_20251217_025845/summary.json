@@ -1,0 +1,191 @@
+{
+  "capture_timestamp": "20251217_025845", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_001.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/GetMultipleBonuses", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_001.txt", 
+      "timestamp": 1765929482506
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_002.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/GetMultipleBonuses", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_002.txt", 
+      "timestamp": 1765929486367
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_003.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/GetAvailableBoosts?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_003.txt", 
+      "timestamp": 1765929486407
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_004.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/FindActiveBonus?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_004.txt", 
+      "timestamp": 1765929490299
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_005.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/GetBonusAvailable", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_005.txt", 
+      "timestamp": 1765929491401
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_006.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/CreateBonusByCode", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_006.txt", 
+      "timestamp": 1765929506969
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_007.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/CreateBonusByCode", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_007.txt", 
+      "timestamp": 1765929540150
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_008.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/GetMultipleBonuses", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_008.txt", 
+      "timestamp": 1765929548156
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_009.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/GetBonusAvailable", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_009.txt", 
+      "timestamp": 1765929548156
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_010.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/FindActiveBonus?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_010.txt", 
+      "timestamp": 1765929548160
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_011.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/GetMultipleBonuses", 
+      "sequence_number": 11, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_011.txt", 
+      "timestamp": 1765929616382
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_012.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/GetAvailableBoosts?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 12, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_012.txt", 
+      "timestamp": 1765930865389
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_013.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/GetMultipleBonuses", 
+      "sequence_number": 13, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_013.txt", 
+      "timestamp": 1765930865390
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_014.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/GetBonusAvailable", 
+      "sequence_number": 14, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_014.txt", 
+      "timestamp": 1765930867625
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_015.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/FindActiveBonus?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 15, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_015.txt", 
+      "timestamp": 1765930869303
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_016.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/CreateBonusByCode", 
+      "sequence_number": 16, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_016.txt", 
+      "timestamp": 1765930891972
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_017.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/CreateBonusByCode", 
+      "sequence_number": 17, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_017.txt", 
+      "timestamp": 1765930909073
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_018.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/GetMultipleBonuses", 
+      "sequence_number": 18, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_018.txt", 
+      "timestamp": 1765950914181
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_019.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/GetMultipleBonuses", 
+      "sequence_number": 19, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_019.txt", 
+      "timestamp": 1765950920526
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_020.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/GetAvailableBoosts?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 20, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_020.txt", 
+      "timestamp": 1765950920839
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_021.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/FindActiveBonus?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 21, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_021.txt", 
+      "timestamp": 1765950926574
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_022.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/GetBonusAvailable", 
+      "sequence_number": 22, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_022.txt", 
+      "timestamp": 1765950939707
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/request_023.txt", 
+      "url": "https://sb2bonus-altenar2.biahosted.com:443/api/WidgetBonus/CreateBonusByCode", 
+      "sequence_number": 23, 
+      "response_file": "burp_auto_capture/sb2bonus-altenar2.biahosted.com_20251217_025845/response_023.txt", 
+      "timestamp": 1765950978182
+    }
+  ], 
+  "host": "sb2bonus-altenar2.biahosted.com", 
+  "total_requests": 23
+}
