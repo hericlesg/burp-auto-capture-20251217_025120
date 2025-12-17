@@ -1,0 +1,13 @@
+GET / HTTP/2
+Host: esportiva.bet
+Cookie: _ga_NK8EMDCQV0=GS2.1.s1765930855$o1$g0$t1765930855$j60$l0$h0; _ga=GA1.1.163357098.1765930855
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://esportiva.bet.br/
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Te: trailers
+
