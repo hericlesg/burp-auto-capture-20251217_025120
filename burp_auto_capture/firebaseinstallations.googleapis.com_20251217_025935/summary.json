@@ -1,0 +1,31 @@
+{
+  "capture_timestamp": "20251217_025935", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/firebaseinstallations.googleapis.com_20251217_025935/request_001.txt", 
+      "url": "https://firebaseinstallations.googleapis.com:443/v1/projects/esportivacrm/installations", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/firebaseinstallations.googleapis.com_20251217_025935/response_001.txt", 
+      "timestamp": 1765929444038
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/firebaseinstallations.googleapis.com_20251217_025935/request_002.txt", 
+      "url": "https://firebaseinstallations.googleapis.com:443/v1/projects/esportivacrm/installations", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/firebaseinstallations.googleapis.com_20251217_025935/response_002.txt", 
+      "timestamp": 1765929451345
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/firebaseinstallations.googleapis.com_20251217_025935/request_003.txt", 
+      "url": "https://firebaseinstallations.googleapis.com:443/v1/projects/esportivacrm/installations", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/firebaseinstallations.googleapis.com_20251217_025935/response_003.txt", 
+      "timestamp": 1765929479717
+    }
+  ], 
+  "host": "firebaseinstallations.googleapis.com", 
+  "total_requests": 3
+}
