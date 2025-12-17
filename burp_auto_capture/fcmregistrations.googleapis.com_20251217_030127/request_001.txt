@@ -1,0 +1,19 @@
+POST /v1/projects/esportivacrm/registrations HTTP/2
+Host: fcmregistrations.googleapis.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+Accept: application/json
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://esportiva.bet.br/
+Content-Type: application/json
+X-Goog-Api-Key: AIzaSyAlwooFagCc8e73raSMTwxzRblTUwHDTu8
+X-Goog-Firebase-Installations-Auth: FIS eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6MzEzNzQ3NDY0NTA5OndlYjozMDIwMjZlNTYwZDQ4MzNmNDI2NTU0IiwiZXhwIjoxNzY2NTM0Mjc3LCJmaWQiOiJjSkFuQW1KZlVmUFo3aG9ya3ROLTNkIiwicHJvamVjdE51bWJlciI6MzEzNzQ3NDY0NTA5fQ.AB2LPV8wRgIhANHSmCTYdqzmn7EwnYkWeidr8Zr0qq_TK6IkBjyQEg64AiEA9CwTwBqrw7asp1BEEtPlTFWz9GJzIW1KIrZJduKnkzE
+Content-Length: 388
+Origin: https://esportiva.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=4
+Te: trailers
+
+{"web":{"endpoint":"https://updates.push.services.mozilla.com/wpush/v2/gAAAAABpQfHh65wLdW6nDhxF4-BW55Zwj-Abeb2sq32B5doBTvWC_ivk4w1WefAep-7_1IKT0z6MGMP2cm5q7QJwqVJkDXttLKGS8hlksNALRzqvi2e8Hczh8NMWqtIXF1AtNHlNySoazn95ymiRnKdfUyELUm4ON-kufp_Su83oH_ZekIsPqCc","auth":"jgi17iEZsGWRNTGYvpjATA","p256dh":"BMAJO8jvMXBIv0fSjxJEJsXvZMXiQM4bc20W6eRbTm_jCF2SmuyUjQvEgvsqDhkIB51DecA8pD5rkUyhG5owZd4"}}
