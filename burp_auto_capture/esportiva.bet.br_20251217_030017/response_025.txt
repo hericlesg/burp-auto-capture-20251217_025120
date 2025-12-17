@@ -1,0 +1,19 @@
+HTTP/2 200 OK
+Date: Wed, 17 Dec 2025 00:09:19 GMT
+Content-Type: application/json
+Server: cloudflare
+Cf-Ray: 9af230e6393f2afd-GIG
+Cf-Cache-Status: DYNAMIC
+Access-Control-Allow-Origin: *
+Cache-Control: max-age=0, no-cache, must-revalidate
+Set-Cookie: bet7k_session=eyJpdiI6InBjcVJlcVRGWFZKRm5FRmdYOVhEVHc9PSIsInZhbHVlIjoib2tmVVlkaUZTMGxyUXFRaTVmMU5ZNzY4ZzBQVTdmYUF3SlM5ZnVXeFY3U0VwY0I3VmtOWU5JRUlhY1NuQ29ENlkrc2xTTDJoUFFKZE9DK3Jxcnk5TUxmek52NUFhZUovTjRHcXd6NFJFdHFMWks2V1B4c29hQ1JOQkFXZURKWlEiLCJtYWMiOiJmYzJmNzhjYmQ4Yjg3OGRjNmM3MGE3YmNhNmEwYjY2N2VlMTI0N2VjNDZjMDIzMjA1MDdlNTM3OGY5OTIxZDk0IiwidGFnIjoiIn0%3D; expires=Wed, 24 Dec 2025 00:09:19 GMT; Max-Age=604800; path=/; httponly; samesite=lax
+Set-Cookie: __cf_bm=a.v25EEplMgkLNjodoVYG2d9Pvg3xJUVWTvaa4SsYrc-1765930159-1.0.1.1-tB3d3KfUITglMUmIJS1gS5iBN1UNmD7tV4wuNl66O574te7euJDGrG5JqD_zs8y4pEWoVC.hAhWZSEIM91QfI5Lt.u_EpjyzF757JK7J8lw; path=/; expires=Wed, 17-Dec-25 00:39:19 GMT; domain=.bs2bet.com; HttpOnly; Secure; SameSite=None
+Strict-Transport-Security: max-age=15768000;
+Vary: Accept-Encoding
+Cf-Placement: local-
+Protected: by MS23041901
+Srv: ip-172-16-155-22
+X-Ratelimit-Limit: 999999999
+X-Ratelimit-Remaining: 999999223
+
+{"success":false,"message":"RollOver n\u00e3o definido"}
