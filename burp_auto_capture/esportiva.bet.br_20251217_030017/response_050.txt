@@ -1,0 +1,19 @@
+HTTP/2 200 OK
+Date: Wed, 17 Dec 2025 05:54:16 GMT
+Content-Type: application/json
+Server: cloudflare
+Cf-Ray: 9af42a324896bc64-GRU
+Cf-Cache-Status: DYNAMIC
+Access-Control-Allow-Origin: *
+Cache-Control: max-age=0, no-cache, must-revalidate
+Set-Cookie: bet7k_session=eyJpdiI6ImVPakJtZVpuZXRrT3Y3bVRXQjdXa1E9PSIsInZhbHVlIjoiK2E1SjVLTC9Lb3Fjeld3bDQyRHZYVTlEMm5kZGlCdVlJWDYzK0dZZDFkdlFJbnltQXYrVUx2N3NOUTVuMy8zTFNpTVYxelphbXhFWEU2b3RzYUkxWHlDTy9DSlhGM1V0aXphci8xRzNwUXllclVsL0dEbVdhZ0Z5WUJpcUU2OWMiLCJtYWMiOiJiZmMzNDQyZWVjZWQ5NTVlZWIwODIxMjVjZjJmYmRiNjk0YjZhN2Q2YmUyNzRmZDllNzBmNzkwZjIyNGM5YzNkIiwidGFnIjoiIn0%3D; expires=Wed, 24 Dec 2025 05:54:16 GMT; Max-Age=604800; path=/; httponly; samesite=lax
+Set-Cookie: __cf_bm=fUEPijHLJQUvkOF6g5qrR2mntZn1cvFojPeOn.bfhfE-1765950856-1.0.1.1-NZtBtXmm2jC8Ybi6qJuIj_I8PbyfRGL3gS84Trt3Pf3AtYATW_D96e1Hz8dEIHYl3LjsEFQmrLdgwerfhsI87oyUCObo5PW0A9adGx5Wpt4; path=/; expires=Wed, 17-Dec-25 06:24:16 GMT; domain=.bs2bet.com; HttpOnly; Secure; SameSite=None
+Strict-Transport-Security: max-age=15768000;
+Vary: Accept-Encoding
+Cf-Placement: local-
+Protected: by MS23041901
+Srv: ip-172-16-155-114
+X-Ratelimit-Limit: 999999999
+X-Ratelimit-Remaining: 999999882
+
+{"token":"esportivabetbr-4d84986411847aaa522067b5c3600df5c5227d9b4022f333ae38e1e3773ccd41"}
