@@ -1,0 +1,19 @@
+HTTP/2 200 OK
+Date: Tue, 16 Dec 2025 23:52:41 GMT
+Content-Type: application/json
+Server: cloudflare
+Cf-Ray: 9af218894e7d287d-GRU
+Cf-Cache-Status: DYNAMIC
+Access-Control-Allow-Origin: *
+Cache-Control: max-age=0, no-cache, must-revalidate
+Set-Cookie: bet7k_session=eyJpdiI6Ik5UNHBFSURLY0lVdDZBTHFkMll4ckE9PSIsInZhbHVlIjoiSjU5YWpUblA1Nlo2cnNNL1RIQ0xIZ3EySVRwb0Q4UmpyQjhrempLZW1GdlhNMmpRYlZkdks2VVR6cWxLWHdXYXV4NFZKQS9sMlNBWGVwTk5aU2J2Qm5yT21xL3J6NUVsM3lZaW0xb0J6bUl1YUh0ek1iZVllZjQ5ZUh0RVc4d3IiLCJtYWMiOiJkYzU3Yjg2ZmU2N2U3YWUxNTFkYjI4YjRhYzEzMWU5NWI2MGM1N2ExMWZjYTc5ZTUxZjgwZjI5ZTkyYTI5YTI2IiwidGFnIjoiIn0%3D; expires=Tue, 23 Dec 2025 23:52:41 GMT; Max-Age=604800; path=/; httponly; samesite=lax
+Set-Cookie: __cf_bm=EVjXBaOCbc1lj4MNHMrDQ_1dSiSnDsiWN._stXf1OPg-1765929161-1.0.1.1-PbH61jaA2k2yhbb_6Ys5cwEsjYld3QemJj6tQNagunjoSocMIUqU9Xa64_yFiOV1CK8LpyPSDsJ_2htW76aV6e9_Eug_J4gO9yqZVFSuPtA; path=/; expires=Wed, 17-Dec-25 00:22:41 GMT; domain=.bs2bet.com; HttpOnly; Secure; SameSite=None
+Strict-Transport-Security: max-age=15768000;
+Vary: Accept-Encoding
+Cf-Placement: local-
+Protected: by MS23041901
+Srv: ip-172-16-155-114
+X-Ratelimit-Limit: 999999999
+X-Ratelimit-Remaining: 999998408
+
+{"data":{"name":"Renata Rodrigues Moleiro","birth_date":"1970-12-23"},"status":1,"cpf":"14757741847","nascimento":"23\/12\/1970","birth_date":"1970-12-23","nome":"Renata Rodrigues Moleiro","name":"Renata Rodrigues Moleiro","number":"14757741847","gender":0,"genero":0,"bypass":false,"success":true,"age":"54"}
