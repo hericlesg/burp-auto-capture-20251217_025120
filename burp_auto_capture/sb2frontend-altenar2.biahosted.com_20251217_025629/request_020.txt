@@ -1,0 +1,15 @@
+GET /api/BetMentor/GetSettings?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&currencyId=986 HTTP/2
+Host: sb2frontend-altenar2.biahosted.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://esportiva.bet.br/
+Authorization: V2xoc1MyRkhTa2haTW14UVlWVndTbFpZY0VwTlZUVndVMWhPU21Kc1NURlpNRTVLVG10c2NtTkdhRmRSTUc4MVRHMVdOVk51UW1wUk1Hc3lVMWR3Ums1Vk1WUk9TR3hQVlhwU05WUlljRlprVlRWRldUSnNUVkV3Y0hKWmFrbDRZVWRHV0U1SGJGQmhWWEIyV2tWb1UyUXlUalppTTFwTlRXeGFObGt3WXpWbFYxSklZa1JLV2xWNlZuQlhiR2hTWkZac2RWTlhiRTFSTUhCM1dXMDFVMkpHYjNwVGJXaHJVako0TWxsdGJFcE9hMngwVm01d2FsSjZiRFZhUldSelRXeHNWRk5ZVGtwaWJGbzJWMnhvUzFGc2IzbFdibFpyVVRCck1sTlhjM2hrYlZaMFlraE9hVkl3VmpKVWJFMHdaREJzUkdGR2FHaFdlbFp5V1dwT2EyVnJiRVpPVmxaS1VrVldNMVJIY0VKT01HeEhXa2hDYVdGc2EzZFVNMnhEVGtVMWNWVlVaRXBUUlc5NVZESndSazFGTlhCT1NHUk1WVEJLU1Zkc1pFOWpiVW8xVDBoc1RsSkZWak5VVlZKR1pEQXhWRkZyWkdoWFJYQnpWMjB3TlU1RmVEWlNWRUpQWVZSU00xTlhiRE5oVjBsNlZGZHNVR0ZWYkhCVVJVNUxZa2RXU1ZGWGJGQmhhMVY2Vkcxd1ZrNVZNVFpVV0dSUFpXMVJOVXhzT1haaU1HaE5VMWRXVUZaVlduQmtibkJKVkRGT1lVeFZXbXBhYldoRlZteEdhVkZ1VG5aVVZFNVJWMnhHVDJOSVRrSmFWbXhUV1RKalBRPT0=
+Origin: https://esportiva.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=0
+Te: trailers
+
