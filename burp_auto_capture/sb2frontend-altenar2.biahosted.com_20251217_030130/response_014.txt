@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Date: Tue, 16 Dec 2025 23:58:00 GMT
+Content-Type: application/json; charset=utf-8
+Access-Control-Allow-Origin: *
+Cache-Control: public,max-age=300
+Vary: Accept-Encoding
+Via: 1.1 google
+Strict-Transport-Security: max-age=2592000; includeSubDomains
+Age: 164
+Cf-Cache-Status: HIT
+Last-Modified: Tue, 16 Dec 2025 23:55:16 GMT
+Server: cloudflare
+Cf-Ray: 9af220570fd2d48d-GRU
+
+{"topOutrights":[{"groupId":409,"groupName":"Principal","champId":16808,"champName":"UEFA Champions League","sportTypeId":1,"sportId":66,"iso":"","categoryId":1133},{"groupId":381,"groupName":"Vencedor","champId":16809,"champName":"UEFA Europa League","sportTypeId":1,"sportId":66,"iso":"","categoryId":1133},{"groupId":409,"groupName":"Principal","champId":2950,"champName":"Bundesliga","sportTypeId":1,"sportId":66,"iso":"DEU","categoryId":506}]}
