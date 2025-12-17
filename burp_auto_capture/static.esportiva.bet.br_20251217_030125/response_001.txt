@@ -1,0 +1,16 @@
+HTTP/2 200 OK
+Date: Tue, 16 Dec 2025 23:57:47 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: https://esportiva.bet.br
+Etag: W/"bf18da624f095f588f4de78c94e3db31"
+Last-Modified: Tue, 16 Dec 2025 23:14:14 GMT
+Vary: Origin, Accept-Encoding
+Age: 2578
+Cache-Control: max-age=31536000
+Cf-Cache-Status: HIT
+Set-Cookie: __cf_bm=6sVPmADIHIlIS4ep2XFVlnzkW5qepM9t4dw3DsiWrsg-1765929467-1.0.1.1-fNQS.npL.7XeMyIUnudVOmvkD9s1bDLuB7TYzi.6ABECvSbr.287fKWxhlW8VHS1jIE.mexgUaCS.O9PT8MXQWkdKcmZU_Vggp3jRiCleTg; path=/; expires=Wed, 17-Dec-25 00:27:47 GMT; domain=.esportiva.bet.br; HttpOnly; Secure; SameSite=None
+Set-Cookie: _cfuvid=j4Z7SY7ZPS63wC4Y7lAatyFeySSgOdf2J4i7hSx6rcY-1765929467196-0.0.1.1-604800000; path=/; domain=.esportiva.bet.br; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 9af22001e90eade5-GRU
+
+{"id":"8c939ac6-1fd9-4c3f-9256-af2f6ffccca8","timestamp":1765926815359,"matcher":{"static":{},"wildcard":{},"dynamic":{}},"prerendered":[]}
