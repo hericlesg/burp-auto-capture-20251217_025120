@@ -1,0 +1,11 @@
+HTTP/2 200 OK
+Date: Tue, 16 Dec 2025 23:58:04 GMT
+Content-Type: application/json; charset=utf-8
+Server: cloudflare
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=2592000; includeSubDomains
+Vary: Accept-Encoding
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 9af2206cc9f7af2f-GRU
+
+{}
