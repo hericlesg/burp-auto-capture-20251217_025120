@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20251217_025247", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2ris-altenar2.biahosted.com_20251217_025247/request_001.txt", 
+      "url": "https://sb2ris-altenar2.biahosted.com:443/api/WidgetResults/GetSportMenu?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/sb2ris-altenar2.biahosted.com_20251217_025247/response_001.txt", 
+      "timestamp": 1765930814343
+    }
+  ], 
+  "host": "sb2ris-altenar2.biahosted.com", 
+  "total_requests": 1
+}
