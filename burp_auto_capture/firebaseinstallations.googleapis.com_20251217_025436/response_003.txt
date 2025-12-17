@@ -1,0 +1,24 @@
+HTTP/2 200 OK
+Content-Type: application/json; charset=UTF-8
+Vary: Origin
+Vary: X-Origin
+Vary: Referer
+Date: Tue, 16 Dec 2025 23:57:57 GMT
+Server: ESF
+Content-Length: 626
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: https://esportiva.bet.br
+Access-Control-Expose-Headers: vary,vary,vary,content-encoding,date,server,content-length
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+{
+  "name": "projects/313747464509/installations/cJAnAmJfUfPZ7horktN-3d",
+  "fid": "cJAnAmJfUfPZ7horktN-3d",
+  "refreshToken": "3_AS3qfwKc4UJe8JwaiXjFGf6hM6QS8tZE4otgVsQO-ZbLiULSoKERhxcJ3aWHOQIy75Y9e64fiHZdR8WI99s70vzQgaViRNS5k2whxzLx8u4vCJE",
+  "authToken": {
+    "token": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6MzEzNzQ3NDY0NTA5OndlYjozMDIwMjZlNTYwZDQ4MzNmNDI2NTU0IiwiZXhwIjoxNzY2NTM0Mjc3LCJmaWQiOiJjSkFuQW1KZlVmUFo3aG9ya3ROLTNkIiwicHJvamVjdE51bWJlciI6MzEzNzQ3NDY0NTA5fQ.AB2LPV8wRgIhANHSmCTYdqzmn7EwnYkWeidr8Zr0qq_TK6IkBjyQEg64AiEA9CwTwBqrw7asp1BEEtPlTFWz9GJzIW1KIrZJduKnkzE",
+    "expiresIn": "604800s"
+  }
+}
