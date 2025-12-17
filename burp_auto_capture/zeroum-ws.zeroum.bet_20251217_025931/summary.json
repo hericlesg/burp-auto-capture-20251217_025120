@@ -1,0 +1,47 @@
+{
+  "capture_timestamp": "20251217_025931", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251217_025931/request_001.txt", 
+      "url": "https://zeroum-ws.zeroum.bet:443/basehub/negotiate?languageId=pt&timeZone=-3&negotiateVersion=1", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251217_025931/response_001.txt", 
+      "timestamp": 1765929858898
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251217_025931/request_002.txt", 
+      "url": "https://zeroum-ws.zeroum.bet:443/basehub?languageId=pt&timeZone=-3&id=Y2nOZ_fyA3ixUR9KiYroOg", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251217_025931/response_002.txt", 
+      "timestamp": 1765929887375
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251217_025931/request_003.txt", 
+      "url": "https://zeroum-ws.zeroum.bet:443/basehub/negotiate?languageId=pt&timeZone=-3&negotiateVersion=1", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251217_025931/response_003.txt", 
+      "timestamp": 1765929892748
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251217_025931/request_004.txt", 
+      "url": "https://zeroum-ws.zeroum.bet:443/basehub?languageId=pt&timeZone=-3&id=xyI4LpVN6MMoffngjpQHPg", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251217_025931/response_004.txt", 
+      "timestamp": 1765929912796
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251217_025931/request_005.txt", 
+      "url": "https://zeroum-ws.zeroum.bet:443/basehub?languageId=pt&timeZone=-3&id=xyI4LpVN6MMoffngjpQHPg", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251217_025931/response_005.txt", 
+      "timestamp": 1765929917908
+    }
+  ], 
+  "host": "zeroum-ws.zeroum.bet", 
+  "total_requests": 5
+}
