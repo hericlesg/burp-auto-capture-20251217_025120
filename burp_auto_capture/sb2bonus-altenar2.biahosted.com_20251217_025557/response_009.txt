@@ -1,0 +1,11 @@
+HTTP/2 200 OK
+Date: Tue, 16 Dec 2025 23:59:06 GMT
+Content-Type: application/json; charset=utf-8
+Server: cloudflare
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=2592000; includeSubDomains
+Vary: Accept-Encoding
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 9af221eeaa1f5530-GRU
+
+{"bonuses":[{"id":58638608,"status":1,"planName":"FreeBet ð","rolloverProgress":0.0,"createdDate":"2025-12-16T23:58:24.91Z","expiredDate":"2025-12-17T23:58:24.92Z","currency":"BRL","initialBonus":5.0000,"amount":5.0000,"remain":0.0000,"isCancelAvailable":false,"type":6}]}
