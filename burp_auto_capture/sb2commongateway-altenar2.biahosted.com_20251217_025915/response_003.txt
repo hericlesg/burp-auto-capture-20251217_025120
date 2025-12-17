@@ -1,0 +1,10 @@
+HTTP/2 200 OK
+Server: nginx
+Date: Wed, 17 Dec 2025 00:20:29 GMT
+Content-Type: application/json; charset=utf-8
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=15552000
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+{"itemCounts":{"7827852":151,"7785051":6,"7791923":37,"7799169":0,"7799170":0,"7799174":3,"7797374":0,"7797372":0,"7798426":1,"7798486":1,"7797972":1,"7797974":0,"7812990":4}}
