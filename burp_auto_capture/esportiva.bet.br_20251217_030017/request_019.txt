@@ -1,0 +1,29 @@
+POST /api/auth/login HTTP/2
+Host: esportiva.bet.br
+Cookie: _gcl_aw=GCL.1759268335.EAIaIQobChMI3N-LnrmBkAMVjGFIAB2qTjjLEAAYASAAEgIl7vD_BwE; _gcl_gs=2.1.k1$i1759268330$u116129170; _gcl_au=1.1.659977511.1759268335.2128946684.1765929415.1765929630; cactusCookiesConsent=%5B%22necessary%22%2C%22performance%22%2C%22functionality%22%2C%22others%22%5D; _ga_SE085JM1MV=GS2.1.s1765929409$o2$g1$t1765929474$j60$l0$h0; _ga=GA1.1.1900857614.1759268335; _ga_TVDHCDVJM5=GS2.1.s1765929409$o2$g1$t1765929617$j60$l0$h0; _ga_GRXQYD55KS=GS2.1.s1765929409$o2$g1$t1765929622$j55$l0$h0; __track_id=tid-2ab5ec6f3.4230aa681; _fbp=fb.2.1759268338840.273307533917248810; __cf_bm=C4nXEklJEKCGIXWmX8ZVHxUlao2X7Z.Wjn96ki6VDJw-1765929400-1.0.1.1-Q0ecVJfnxyrY0WP02iNJoufDgdTsAwYHbRdIQMDex2VGDICxG15JM0ioy7Vl0LRw575AQkXm_8Kx6DhtImUOhxkk4CFft6l0RSpbocI83pA; _cfuvid=mi1XQLA33yxBL.LYcIaskmvNfMYhpn4vBtnbq6R.jTY-1765929400828-0.0.1.1-604800000; ref_code=; jwt_token=; v2_topbar_download_app_closed=false; v2_topbar_referral_closed=false; v2_topbar_tournament_closed=false; v2_topbar_telegram_closed=false; v2_topbar_push_notify_closed=false; geolocation-pristine=false; install_app_popup_closed=false; legal_age_popup_closed=true; _clck=12mfnjc%5E2%5Eg1x%5E0%5E2176; _hjSessionUser_6535523=eyJpZCI6IjIzZDBkZGI3LTU2NWUtNTQ2ZC05YmU5LWZhOWQwOGVmZDE3MSIsImNyZWF0ZWQiOjE3NjU5Mjk0MDg3NDMsImV4aXN0aW5nIjp0cnVlfQ==; _hjSession_6535523=eyJpZCI6ImIzZjU0MTUyLWIxMGItNGZlMC1hMDk5LWQ3Njc0MDRlMWUyMCIsImMiOjE3NjU5Mjk0MDg3NDMsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=; _clsk=orerut%5E1765929618301%5E4%5E0%5Ev.clarity.ms%2Fcollect; _ga_6JQLXHZNEM=GS2.1.s1765929410$o1$g1$t1765929475$j60$l0$h0; _mc_uid=ikddnai1765929411134; cf_clearance=Pi96bbFoU5fXOOQUQ4BbdZtXpalVGWY1m4v2dyjozq0-1765929409-1.2.1.1-sWj7TWrjuj0ix8dYjRgqkLPUKluae7FHK4pDIUk2Q_z0vMSsv6CA3qmvJwcol2C6hk4mhEXYyyq73uQ.beGQC6aud13rAhdDZyAcT2bR5G1GNdTHf5WWTHNNA.woHJOATs4QPEYeMeWrpFRiDcp2En0NVW4bbO3N2grZqy7pklkW6pclz.nFm4DwVDbpyw84KUOQbHs0hXb1WdNTp.D6MaUOabVL.Zhb5oafGC35vYU; user_unic_ac_id=1a270455-988d-3071-2e40-c8022e359844; advcake_trackid=586e20ec-5b84-1b6f-35d1-2229bb64e2eb; bet7k_session=eyJpdiI6IklvNWJ1QWVBTWhsNEhVUjl2MEdsamc9PSIsInZhbHVlIjoia2hzdkZ2ZkhJTi9qYStVakY5Z1E1Z0pLZ05iRVNZMENqSXVMd2lSZlR1aU5DQmxUM3A1QUdCaGZNOGRWVmgrRWUxK2xFdnNmanhLSGdzeXd3SGEveGpXdzh2Rmg4bkpiK0VvdlkwaFJPREdFalUxd3lVWk9zVUhwd28wc3B2TkwiLCJtYWMiOiJhOTA5NjNhYzg4MGZiNTFkOTQ1N2NlM2U3OGIyZWMwMzNiZjY4MzM3NzNkNzI2MmQxOTRiNzA1MDM3YTcwNDA5IiwidGFnIjoiIn0%3D; __smartico_ls_id=e8243b76-3741-4859-985e-df39cf08604e; __smartico_ls_create_t=1765929426839; __smartico_ls_use_t=1765929616920; ph_phc_StrOzjrSaCpxiIV9ZvNywgiSzhAF32QpUyLY0wAM4zE_posthog=%7B%22distinct_id%22%3A%22019b2998-5fe2-7db6-996c-501d48039a7a%22%2C%22%24sesid%22%3A%5B1765929630754%2C%22019b2998-5ff0-7dce-af39-9049d72651e2%22%2C1765929410542%5D%2C%22%24initial_person_info%22%3A%7B%22r%22%3A%22https%3A%2F%2Fwww.google.com%2F%22%2C%22u%22%3A%22https%3A%2F%2Fesportiva.bet.br%2F%22%7D%7D
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+Accept: application/json
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://esportiva.bet.br/
+Authorization: Bearer
+City: SaoPaulo
+Content-Type: application/json
+Lang: pt-br
+Language: pt-br
+Origin-Domain: esportiva.bet.br
+Tenant: esportiva.bet.br
+Version: vz3b-deploy-aad694d60063489969138aa8f49c8881293a618c-7290229aeabc65488d35
+X-Log-Info: 1-1765929630977-deploy-aad694d60063489969138aa8f49c8881293a618c-7290229aeabc65488d35
+X-Origin-Access: 2
+X-Origin-Hostname: www.google.com
+X-Origin-Referrer: https://www.google.com/
+Content-Length: 106
+Origin: https://esportiva.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=4
+Te: trailers
+
+{"login":"14757741847","email":"14757741847","password":"Black@78!","app_source":"web","captcha_token":""}
