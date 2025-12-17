@@ -1,0 +1,11 @@
+HTTP/2 200 OK
+Server: nginx
+Date: Wed, 17 Dec 2025 00:20:59 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 739
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=15552000
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJDb25maWd1cmF0aW9uSWQiOiIxMiIsIlBlcnNvblR5cGUiOiIzIiwiUGVyc29uSWQiOiI3MjMwMzY3MSIsIlVzZXJOYW1lIjoiZXNwb3J0aXZhYmV0YnJfMzAwNDQxNjgiLCJMb2dpbklkIjoiODAzMjU1NjQiLCJDdXJyZW5jeVNpZ24iOiJSJCIsIk1pbkJvbnVzUHJpY2UiOiIxLjIiLCJCb251c1RlbXBsYXRlSWQiOiIzNTQiLCJDdXJyZW5jeUlkIjoiOTg2IiwiQ3VycmVuY3lDb2RlIjoiQlJMIiwiQ291bnRyeUNvZGUiOiJCUiIsIkJyYW5kSWQiOiI3OTYiLCJDbGllbnRJUCI6IjE5MS4yNS4yMzUuNDciLCJleHAiOjE3NjU5MzE3NTksImlzcyI6IlNCMiIsImF1ZCI6IlNCMiJ9.PhBjCnE4p0N8BwondNV-w0zc0vsu5Y3RpeJ7mVfRUz4","currency":"BRL","isUserLocked":false,"isAgency":false,"currencySign":"R$","currencyId":986,"currencyDisplay":0,"encryptedPlayerId":"9y4CDsKmv0beJ1ofpII3RQ==","regDate":"2025-12-17T00:20:59.1135484Z"}
