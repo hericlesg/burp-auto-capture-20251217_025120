@@ -1,0 +1,423 @@
+{
+  "capture_timestamp": "20251217_030017", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_001.txt", 
+      "url": "https://esportiva.bet.br:443/api/documents/validate", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_001.txt", 
+      "timestamp": 1765929163557
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_002.txt", 
+      "url": "https://esportiva.bet.br:443/api/bff/register-simplified", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_002.txt", 
+      "timestamp": 1765929267095
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_003.txt", 
+      "url": "https://esportiva.bet.br:443/api/auth/user-profile", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_003.txt", 
+      "timestamp": 1765929267489
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_004.txt", 
+      "url": "https://esportiva.bet.br:443/api/auth/user-profile", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_004.txt", 
+      "timestamp": 1765929267784
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_005.txt", 
+      "url": "https://esportiva.bet.br:443/api/users/wallet?withCurrentUser=true", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_005.txt", 
+      "timestamp": 1765929268109
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_006.txt", 
+      "url": "https://esportiva.bet.br:443/api/users/wallet?withCurrentUser=true", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_006.txt", 
+      "timestamp": 1765929273645
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_007.txt", 
+      "url": "https://esportiva.bet.br:443/api/alternar/token", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_007.txt", 
+      "timestamp": 1765929282641
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_008.txt", 
+      "url": "https://esportiva.bet.br:443/api/alternar/token", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_008.txt", 
+      "timestamp": 1765929439067
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_009.txt", 
+      "url": "https://esportiva.bet.br:443/api/alternar/token", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_009.txt", 
+      "timestamp": 1765929439433
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_010.txt", 
+      "url": "https://esportiva.bet.br:443/sports", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_010.txt", 
+      "timestamp": 1765929450940
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_011.txt", 
+      "url": "https://esportiva.bet.br:443/api/users/wallet?withCurrentUser=true", 
+      "sequence_number": 11, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_011.txt", 
+      "timestamp": 1765929469466
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_012.txt", 
+      "url": "https://esportiva.bet.br:443/api/auth/user-profile", 
+      "sequence_number": 12, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_012.txt", 
+      "timestamp": 1765929469484
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_013.txt", 
+      "url": "https://esportiva.bet.br:443/api/auth/user-profile", 
+      "sequence_number": 13, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_013.txt", 
+      "timestamp": 1765929471501
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_014.txt", 
+      "url": "https://esportiva.bet.br:443/api/clear-cache?version=deploy-aad694d60063489969138aa8f49c8881293a618c-7290229aeabc65488d35-1765926814007&d=1765929473834", 
+      "sequence_number": 14, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_014.txt", 
+      "timestamp": 1765929473890
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_015.txt", 
+      "url": "https://esportiva.bet.br:443/api/alternar/token", 
+      "sequence_number": 15, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_015.txt", 
+      "timestamp": 1765929475221
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_016.txt", 
+      "url": "https://esportiva.bet.br:443/api/alternar/token", 
+      "sequence_number": 16, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_016.txt", 
+      "timestamp": 1765929476871
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_017.txt", 
+      "url": "https://esportiva.bet.br:443/api/auth/logout", 
+      "sequence_number": 17, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_017.txt", 
+      "timestamp": 1765929565835
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_018.txt", 
+      "url": "https://esportiva.bet.br:443/api/bff/games/top-wins?days=1", 
+      "sequence_number": 18, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_018.txt", 
+      "timestamp": 1765929616432
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_019.txt", 
+      "url": "https://esportiva.bet.br:443/api/auth/login", 
+      "sequence_number": 19, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_019.txt", 
+      "timestamp": 1765929632705
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_020.txt", 
+      "url": "https://esportiva.bet.br:443/api/auth/user-profile", 
+      "sequence_number": 20, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_020.txt", 
+      "timestamp": 1765929672196
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_021.txt", 
+      "url": "https://esportiva.bet.br:443/api/auth/user-profile", 
+      "sequence_number": 21, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_021.txt", 
+      "timestamp": 1765929672249
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_022.txt", 
+      "url": "https://esportiva.bet.br:443/api/users/wallet?withCurrentUser=true", 
+      "sequence_number": 22, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_022.txt", 
+      "timestamp": 1765929675155
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_023.txt", 
+      "url": "https://esportiva.bet.br:443/api/users/wallet?withCurrentUser=true", 
+      "sequence_number": 23, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_023.txt", 
+      "timestamp": 1765929677059
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_024.txt", 
+      "url": "https://esportiva.bet.br:443/api/users/wallet?withCurrentUser=true", 
+      "sequence_number": 24, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_024.txt", 
+      "timestamp": 1765929682775
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_025.txt", 
+      "url": "https://esportiva.bet.br:443/api/bonus/rollover", 
+      "sequence_number": 25, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_025.txt", 
+      "timestamp": 1765930161269
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_026.txt", 
+      "url": "https://esportiva.bet.br:443/cdn-cgi/challenge-platform/h/b/rc/9af23f1a8d57cb24", 
+      "sequence_number": 26, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_026.txt", 
+      "timestamp": 1765930744431
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_027.txt", 
+      "url": "https://esportiva.bet.br:443/api/auth/login", 
+      "sequence_number": 27, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_027.txt", 
+      "timestamp": 1765930751190
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_028.txt", 
+      "url": "https://esportiva.bet.br:443/api/auth/user-profile", 
+      "sequence_number": 28, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_028.txt", 
+      "timestamp": 1765930781532
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_029.txt", 
+      "url": "https://esportiva.bet.br:443/api/auth/user-profile", 
+      "sequence_number": 29, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_029.txt", 
+      "timestamp": 1765930781541
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_030.txt", 
+      "url": "https://esportiva.bet.br:443/api/users/wallet?withCurrentUser=true", 
+      "sequence_number": 30, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_030.txt", 
+      "timestamp": 1765930784375
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_031.txt", 
+      "url": "https://esportiva.bet.br:443/api/users/wallet?withCurrentUser=true", 
+      "sequence_number": 31, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_031.txt", 
+      "timestamp": 1765930785260
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_032.txt", 
+      "url": "https://esportiva.bet.br:443/api/users/wallet?withCurrentUser=true", 
+      "sequence_number": 32, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_032.txt", 
+      "timestamp": 1765930789605
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_033.txt", 
+      "url": "https://esportiva.bet.br:443/api/alternar/token", 
+      "sequence_number": 33, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_033.txt", 
+      "timestamp": 1765930790966
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_034.txt", 
+      "url": "https://esportiva.bet.br:443/api/alternar/token", 
+      "sequence_number": 34, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_034.txt", 
+      "timestamp": 1765930791273
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_035.txt", 
+      "url": "https://esportiva.bet.br:443/api/alternar/token", 
+      "sequence_number": 35, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_035.txt", 
+      "timestamp": 1765930856227
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_036.txt", 
+      "url": "https://esportiva.bet.br:443/api/alternar/token", 
+      "sequence_number": 36, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_036.txt", 
+      "timestamp": 1765930856894
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_037.txt", 
+      "url": "https://esportiva.bet.br:443/cdn-cgi/challenge-platform/h/b/rc/9af426736ea8013a", 
+      "sequence_number": 37, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_037.txt", 
+      "timestamp": 1765950704415
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_038.txt", 
+      "url": "https://esportiva.bet.br:443/api/auth/login", 
+      "sequence_number": 38, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_038.txt", 
+      "timestamp": 1765950714060
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_039.txt", 
+      "url": "https://esportiva.bet.br:443/api/auth/user-profile", 
+      "sequence_number": 39, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_039.txt", 
+      "timestamp": 1765950778148
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_040.txt", 
+      "url": "https://esportiva.bet.br:443/api/auth/user-profile", 
+      "sequence_number": 40, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_040.txt", 
+      "timestamp": 1765950778171
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_041.txt", 
+      "url": "https://esportiva.bet.br:443/api/users/wallet?withCurrentUser=true", 
+      "sequence_number": 41, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_041.txt", 
+      "timestamp": 1765950781064
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_042.txt", 
+      "url": "https://esportiva.bet.br:443/api/users/wallet?withCurrentUser=true", 
+      "sequence_number": 42, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_042.txt", 
+      "timestamp": 1765950783652
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_043.txt", 
+      "url": "https://esportiva.bet.br:443/api/users/wallet?withCurrentUser=true", 
+      "sequence_number": 43, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_043.txt", 
+      "timestamp": 1765950791031
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_044.txt", 
+      "url": "https://esportiva.bet.br:443/api/alternar/token", 
+      "sequence_number": 44, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_044.txt", 
+      "timestamp": 1765950793995
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_045.txt", 
+      "url": "https://esportiva.bet.br:443/api/alternar/token", 
+      "sequence_number": 45, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_045.txt", 
+      "timestamp": 1765950795107
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_046.txt", 
+      "url": "https://esportiva.bet.br:443/sports", 
+      "sequence_number": 46, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_046.txt", 
+      "timestamp": 1765950828544
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_047.txt", 
+      "url": "https://esportiva.bet.br:443/api/auth/user-profile", 
+      "sequence_number": 47, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_047.txt", 
+      "timestamp": 1765950850437
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_048.txt", 
+      "url": "https://esportiva.bet.br:443/api/users/wallet?withCurrentUser=true", 
+      "sequence_number": 48, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_048.txt", 
+      "timestamp": 1765950850437
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_049.txt", 
+      "url": "https://esportiva.bet.br:443/api/auth/user-profile", 
+      "sequence_number": 49, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_049.txt", 
+      "timestamp": 1765950850489
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_050.txt", 
+      "url": "https://esportiva.bet.br:443/api/alternar/token", 
+      "sequence_number": 50, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_050.txt", 
+      "timestamp": 1765950856427
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_051.txt", 
+      "url": "https://esportiva.bet.br:443/api/clear-cache?version=deploy-aad694d60063489969138aa8f49c8881293a618c-7290229aeabc65488d35-1765926814007&d=1765950856690", 
+      "sequence_number": 51, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_051.txt", 
+      "timestamp": 1765950856746
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/request_052.txt", 
+      "url": "https://esportiva.bet.br:443/api/alternar/token", 
+      "sequence_number": 52, 
+      "response_file": "burp_auto_capture/esportiva.bet.br_20251217_030017/response_052.txt", 
+      "timestamp": 1765950861257
+    }
+  ], 
+  "host": "esportiva.bet.br", 
+  "total_requests": 52
+}
