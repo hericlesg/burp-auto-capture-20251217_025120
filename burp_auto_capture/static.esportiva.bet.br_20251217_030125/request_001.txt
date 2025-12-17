@@ -1,0 +1,16 @@
+GET /deploy-aad694d60063489969138aa8f49c8881293a618c-7290229aeabc65488d35/_nuxt/builds/meta/8c939ac6-1fd9-4c3f-9256-af2f6ffccca8.json HTTP/2
+Host: static.esportiva.bet.br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://esportiva.bet.br/
+Origin: https://esportiva.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+Te: trailers
+
