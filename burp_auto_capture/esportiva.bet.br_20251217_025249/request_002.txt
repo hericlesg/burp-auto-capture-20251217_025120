@@ -1,0 +1,28 @@
+POST /api/bff/register-simplified HTTP/2
+Host: esportiva.bet.br
+Cookie: _fbp=fb.1.1764867153492.59659586892345529; _gcl_au=1.1.1255460384.1764867154; _ga_833TYZP13Q=GS2.1.s1764867153$o1$g0$t1764867153$j60$l0$h0; _ga=GA1.1.39417592.1764867154; _ga_9DV344ZVDG=GS2.1.s1764867155$o1$g0$t1764867155$j60$l0$h0; _ga_PJ5V85MP8Z=GS2.1.s1764867154$o1$g0$t1764867267$j60$l0$h0; __cf_bm=0D5_ALfyo6mcHUnJFDmLdg.8IqWNdzJjA6bYNZgTr9g-1765929108-1.0.1.1-H8xMyLKH4pSxNcSbLDbhWgvBp_69bLzsj5AIFq1tuVvDiCHXQ1bciT4nReXPf18m.1wN9d0Kc9hSVrMIFGJwSYFsC9TL_wE5wZe7HfkAavo; _cfuvid=BVGhX37y5n9_iQwE0qBBxfaKpORiicEb4ZjGi6tPWpw-1765929108328-0.0.1.1-604800000; ref_code=; jwt_token=; v2_topbar_download_app_closed=false; v2_topbar_referral_closed=false; v2_topbar_tournament_closed=false; v2_topbar_telegram_closed=false; v2_topbar_push_notify_closed=false; geolocation-pristine=true; install_app_popup_closed=false; _hjSessionUser_6535523=eyJpZCI6ImE5ODg3ZWZhLTdhOTUtNTUwNS1iYjVjLWYyNWQ3Y2UxNWY1MCIsImNyZWF0ZWQiOjE3NjU5MjkxMTM5MzAsImV4aXN0aW5nIjpmYWxzZX0=; _hjSession_6535523=eyJpZCI6IjhiMGMxMWFkLTNhZDItNDhjOC1iZjg2LTk0ZmYwM2M5Nzc5MyIsImMiOjE3NjU5MjkxMTM5MzEsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=; _clck=1civdd6%5E2%5Eg1w%5E0%5E2176; legal_age_popup_closed=true; cactusCookiesConsent=%5B%22necessary%22%2C%22performance%22%2C%22functionality%22%2C%22others%22%5D; _clsk=; bet7k_session=eyJpdiI6Ik5UNHBFSURLY0lVdDZBTHFkMll4ckE9PSIsInZhbHVlIjoiSjU5YWpUblA1Nlo2cnNNL1RIQ0xIZ3EySVRwb0Q4UmpyQjhrempLZW1GdlhNMmpRYlZkdks2VVR6cWxLWHdXYXV4NFZKQS9sMlNBWGVwTk5aU2J2Qm5yT21xL3J6NUVsM3lZaW0xb0J6bUl1YUh0ek1iZVllZjQ5ZUh0RVc4d3IiLCJtYWMiOiJkYzU3Yjg2ZmU2N2U3YWUxNTFkYjI4YjRhYzEzMWU5NWI2MGM1N2ExMWZjYTc5ZTUxZjgwZjI5ZTkyYTI5YTI2IiwidGFnIjoiIn0%3D
+Content-Length: 261
+Sec-Ch-Ua: 
+Version: vz3b-deploy-aad694d60063489969138aa8f49c8881293a618c-7290229aeabc65488d35
+Language: pt-br
+X-Log-Info: 1-1765929265428-deploy-aad694d60063489969138aa8f49c8881293a618c-7290229aeabc65488d35
+Sec-Ch-Ua-Mobile: ?0
+Authorization: Bearer
+Tenant: esportiva.bet.br
+Content-Type: application/json
+Accept: application/json
+Lang: pt-br
+City: SaoPaulo
+Origin-Domain: esportiva.bet.br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.134 Safari/537.36
+X-Origin-Access: 2
+Sec-Ch-Ua-Platform: ""
+Origin: https://esportiva.bet.br
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://esportiva.bet.br/
+Accept-Encoding: gzip, deflate
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"country":"BRA","email":"admxship@gmail.com","nationalities":"[{\"id\":1,\"value\":\"Brasileiro (a)\"}]","optIn":true,"captcha_token":"","number":"14757741847","ddi":"+55","phone":"21920257988","password":"Black@78!","ga_client_id":"GA1.1.39417592.1764867154"}
