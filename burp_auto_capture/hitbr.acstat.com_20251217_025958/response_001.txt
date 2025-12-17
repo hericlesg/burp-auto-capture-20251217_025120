@@ -1,0 +1,8 @@
+HTTP/2 200 OK
+Date: Tue, 16 Dec 2025 23:57:54 GMT
+Content-Length: 0
+Access-Control-Allow-Origin: https://esportiva.bet.br
+Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type
+Set-Cookie: ss_id=0156D713-B1E8-10EA-7946-01B7D20C7BE8; max-age=3600000; path=/; HttpOnly; secure; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
