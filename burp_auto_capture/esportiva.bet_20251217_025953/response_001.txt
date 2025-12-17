@@ -1,0 +1,18 @@
+HTTP/2 301 Moved Permanently
+Date: Wed, 17 Dec 2025 05:54:18 GMT
+Content-Type: text/html
+Content-Length: 167
+Location: https://esportiva.bet.br/
+Cache-Control: max-age=3600
+Expires: Wed, 17 Dec 2025 06:54:18 GMT
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 9af42a433ad70d27-GRU
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
