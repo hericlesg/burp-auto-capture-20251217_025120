@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20251217_030125", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/static.esportiva.bet.br_20251217_030125/request_001.txt", 
+      "url": "https://static.esportiva.bet.br:443/deploy-aad694d60063489969138aa8f49c8881293a618c-7290229aeabc65488d35/_nuxt/builds/meta/8c939ac6-1fd9-4c3f-9256-af2f6ffccca8.json", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/static.esportiva.bet.br_20251217_030125/response_001.txt", 
+      "timestamp": 1765929469144
+    }
+  ], 
+  "host": "static.esportiva.bet.br", 
+  "total_requests": 1
+}
