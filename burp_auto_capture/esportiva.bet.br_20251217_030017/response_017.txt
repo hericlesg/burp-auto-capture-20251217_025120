@@ -1,0 +1,22 @@
+HTTP/2 200 OK
+Date: Tue, 16 Dec 2025 23:59:23 GMT
+Content-Type: application/json
+Server: cloudflare
+Cf-Ray: 9af2225c7d1bd884-GRU
+Cf-Cache-Status: DYNAMIC
+Access-Control-Allow-Origin: *
+Cache-Control: max-age=0, no-cache, must-revalidate
+Set-Cookie: __Host-jwt_token_strict=eyJpdiI6IjlZNDlielZLTFY4QjIvNFZpVGJTYWc9PSIsInZhbHVlIjoiRklXUkgyYlB2QVBLcUY5dEZPRkZkSzNMUzhLZU1LVUlMam1YTHIzWGhLcE9oOXBGZXhsK0VFSU10Sm1ZWTVIcSIsIm1hYyI6ImM4OTBhZTMwYjBkYzYxODk3NjNmMzY3MWU4NjcxOGU4YmQ5ZDJiNmVmMzljZTZmZDhmNDkzMTllMzA5MGFlMWQiLCJ0YWciOiIifQ%3D%3D; expires=Tue, 16 Dec 2025 23:58:23 GMT; Max-Age=0; path=/; secure; httponly; samesite=strict
+Set-Cookie: __Host-jwt_token_lax=eyJpdiI6IjBNNm1veUQ1VHZRYUl0dVNPaERTOXc9PSIsInZhbHVlIjoiOFo3RkJVNmluWFREb1dmYWhBRGZ4QytxZnJVODJPUFk3OG5mS09NY2czaHRkdGFqeU5JWHE3NFBlRUVlMW82NCIsIm1hYyI6IjVjOGNlNTA1YTM4MzcyNWZhYzNjNDM1NGRmOTVhNDllMTQ4MzVhZmE3NmY0NTBhZDIzY2FkMmY4OWMwOGZmYjgiLCJ0YWciOiIifQ%3D%3D; expires=Tue, 16 Dec 2025 23:58:23 GMT; Max-Age=0; path=/; secure; httponly; samesite=lax
+Set-Cookie: __Host-jwt_token_none=eyJpdiI6Ijd3Qk9Mb05ackl0M2thaFRrQml4TFE9PSIsInZhbHVlIjoiRzJOMS9PWlF3ajdEVHhvd0V5eWRkUUx3OUJzMmNQVnVnWklTS1FqYW85K083cmgvM016RWlDWHdQZjdmbVBJNiIsIm1hYyI6IjkxZTU1ZmE0NzE5NzJjOGY1MjZhZmEyMzk5ZDI4ZjY3MzY4MDNhM2YzNjgzZTA2NTUzMDZjNjU5ZGQ4OGUzOGYiLCJ0YWciOiIifQ%3D%3D; expires=Tue, 16 Dec 2025 23:58:23 GMT; Max-Age=0; path=/; secure; httponly; samesite=none
+Set-Cookie: bet7k_session=eyJpdiI6IklvNWJ1QWVBTWhsNEhVUjl2MEdsamc9PSIsInZhbHVlIjoia2hzdkZ2ZkhJTi9qYStVakY5Z1E1Z0pLZ05iRVNZMENqSXVMd2lSZlR1aU5DQmxUM3A1QUdCaGZNOGRWVmgrRWUxK2xFdnNmanhLSGdzeXd3SGEveGpXdzh2Rmg4bkpiK0VvdlkwaFJPREdFalUxd3lVWk9zVUhwd28wc3B2TkwiLCJtYWMiOiJhOTA5NjNhYzg4MGZiNTFkOTQ1N2NlM2U3OGIyZWMwMzNiZjY4MzM3NzNkNzI2MmQxOTRiNzA1MDM3YTcwNDA5IiwidGFnIjoiIn0%3D; expires=Tue, 23 Dec 2025 23:59:23 GMT; Max-Age=604800; path=/; httponly; samesite=lax
+Set-Cookie: __cf_bm=fUlpOJ2yxao9M6YGyRIteGOL8Usa3BvNUzlx9ryq3LQ-1765929563-1.0.1.1-8ECw2L6QJ2IUQSny6WmZy_calDwO1XWUyNAZozXGPpiDvLoZEzlP_aQ7VdZGCJUq2YT1bctscklYT_xKDtH9Dz1dmP8nk5t7PGb9zQdPm.Q; path=/; expires=Wed, 17-Dec-25 00:29:23 GMT; domain=.bs2bet.com; HttpOnly; Secure; SameSite=None
+Strict-Transport-Security: max-age=15768000;
+Vary: Accept-Encoding
+Cf-Placement: local-GRU
+Protected: by MS23041901
+Srv: ip-172-16-155-114
+X-Ratelimit-Limit: 999999999
+X-Ratelimit-Remaining: 999999024
+
+{"message":"Usu\u00e1rio desconectado com sucesso"}
