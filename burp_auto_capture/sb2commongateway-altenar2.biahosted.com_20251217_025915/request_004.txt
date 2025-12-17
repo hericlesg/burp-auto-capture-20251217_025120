@@ -1,0 +1,17 @@
+POST /api/BoostedBets/GetCountsByIntegration HTTP/2
+Host: sb2commongateway-altenar2.biahosted.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://esportiva.bet.br/
+Content-Type: application/json
+Content-Length: 236
+Origin: https://esportiva.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=4
+Te: trailers
+
+{"culture":"pt-BR","timezoneOffset":180,"integration":"esportiva","deviceType":1,"numFormat":"en-GB","countryCode":"BR","itemIds":[7827852,7785051,7791923,7799169,7799170,7799174,7797374,7797372,7798426,7798486,7797972,7797974,7812990]}
